@@ -9,8 +9,6 @@
     {
       "client_info": {
         "mobilesdk_app_id": "1:1037154859800:android:683d617a5fe76437",
-        "android_client_info": {
-          "package_name": "org.thunderdog.challegram"
         }
       },
       "oauth_client": [
@@ -25,11 +23,7 @@
         {
           "client_id": "1037154859800-paj1p13kqdomi5fjjp7eutdk8j3o0him.apps.googleusercontent.com",
           "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAM-sKHS6H1e9SO3VnVwdRrWNzpryza1d0"
+       
         }
       ],
       "services": {
